@@ -1,0 +1,7 @@
+echo "# Corvax-assembly" >> README.md 
+git init 
+git add README.md 
+git commit -m "первая фиксация" 
+git ветка -M main 
+git удаленное добавление источника https://github.com/carchsal/Corvax-assembly. git
+ git push -u origin main
